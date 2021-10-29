@@ -1,0 +1,27 @@
+.logo{
+
+    text-align: center;
+
+ 
+
+
+}
+.post {
+
+    padding: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    background-color: silver;
+ }
+.la {
+    margin-left: 50px;
+    color: slategray;
+}
+.lo {
+    color: rgb(155, 123, 87);
+    margin-left: 50px;
+}
+.footer{
+    background-color: darkseagreen;
+}
